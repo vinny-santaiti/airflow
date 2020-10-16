@@ -1,6 +1,6 @@
 # airflow
 ```bash
-docker pull puckel/docker-airflow
+git clone https://github.com/puckel/docker-airflow
 
 docker-compose -f docker-compose-CeleryExecutor.yml up -d
 ```
