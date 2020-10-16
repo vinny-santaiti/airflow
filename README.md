@@ -14,7 +14,3 @@ Multiple docker containers:
 - Redis
 - Flower
 - Worker
-
-
-Docker manager
-- https://kitematic.com/
