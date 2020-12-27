@@ -1,5 +1,6 @@
 """
-The following instructions are for Mac
+The following instructions are for Mac 
+https://www.astronomer.io/docs/cloud/stable/get-started/quickstart
 
 curl -sSL https://install.astronomer.io | sudo bash -s -- v0.22.0
 
