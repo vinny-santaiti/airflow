@@ -10,7 +10,8 @@ Multiple docker containers:
   - http://localhost:8080 
 - Scheduler 
 - PostgreSQL database
-  - ```airflow initdb```
 - Redis
 - Flower
 - Worker
+
+[dag examples](https://github.com/apache/airflow/tree/master/airflow/example_dags)
