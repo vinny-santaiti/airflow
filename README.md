@@ -13,5 +13,5 @@ Multiple docker containers:
 - Redis
 - Flower
 - Worker
-
-[dag examples](https://github.com/apache/airflow/tree/master/airflow/example_dags)
+- [dag examples](https://github.com/apache/airflow/tree/master/airflow/example_dags)
+- [local dev environment](https://airflow.apache.org/docs/apache-airflow/stable/start/local.html)
