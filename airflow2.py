@@ -16,4 +16,8 @@ https://hub.docker.com/r/astronomerio/ap-airflow/tags?page=1&ordering=last_updat
 FROM astronomerio/ap-airflow:2.0.0-buster-onbuild-22237
 
 DOCKER_BUILDKIT=0 astro dev start|stop|kill
+
+Airflow Webserver: http://localhost:8080
+Postgres Database: localhost:5432/postgres
+The default credentials are admin:admin
 """
